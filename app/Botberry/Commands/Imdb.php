@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Blissabot\Commands;
+namespace App\Botberry\Commands;
 
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Contracts\Support\Jsonable;

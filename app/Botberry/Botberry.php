@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Blissabot;
+namespace App\Botberry;
 
-use App\Blissabot\Commands\Imdb;
+use App\Botberry\Commands\Imdb;
 use App\Services\Discord\Bot;
 
-class Blissabot extends Bot
+class Botberry extends Bot
 {
     public function registerGlobalCommands()
     {
