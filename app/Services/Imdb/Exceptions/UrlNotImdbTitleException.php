@@ -2,6 +2,6 @@
 
 namespace App\Services\Imdb\Exceptions;
 
-class UrlNotImdbTitleException extends UrlNotImdbException
+class UrlNotImdbResourceException extends UrlNotImdbException
 {
 }
